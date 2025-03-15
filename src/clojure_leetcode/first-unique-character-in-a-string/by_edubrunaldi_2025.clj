@@ -1,5 +1,5 @@
 ; https://leetcode.com/problems/first-unique-character-in-a-string
-(ns clojure-leetcode.first-unique-character-in-a-string)
+(ns clojure-leetcode.first-unique-character-in-a-string.by_edubrunaldi_2025)
 
 (defn first-no-duplicates
   [elem-index]

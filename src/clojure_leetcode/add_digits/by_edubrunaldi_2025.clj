@@ -1,5 +1,5 @@
 ; https://leetcode.com/problems/add-digits
-(ns clojure-leetcode.add-digits)
+(ns clojure-leetcode.add-digits.by-edubrunaldi-2025)
 
 (defn one-digit?
   [num]
