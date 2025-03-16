@@ -2,6 +2,8 @@
 
 This repository contains solutions to various [LeetCode](https://leetcode.com/) problems implemented in **Clojure**. The goal is to tackle algorithm challenges using Clojure, showcasing functional, concise, and idiomatic approaches.
 
+I'm using this [problem list](https://leetcode.com/problem-list/prshgx6i/) to practice Clojure.
+
 ## Repository Structure
 
 Each LeetCode challenge has its own implementation in a dedicated namespace.

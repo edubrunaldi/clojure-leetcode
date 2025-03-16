@@ -1,4 +1,4 @@
-; https://leetcode.com/problems/add-digits
+;; https://leetcode.com/problems/add-digits
 (ns clojure-leetcode.add-digits.by-edubrunaldi-2025)
 
 (defn one-digit?
